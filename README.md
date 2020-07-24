@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![e-mail Badge](https://img.shields.io/badge/-i@skylee.xyz-orange?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:i@skylee.xyz)
-![blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&logo=blogger&logoColor=white&link=https://www.cnblogs.com/skylee03/)
+![email badge](https://img.shields.io/badge/Email-i@skylee.xyz-orange?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:i@skylee.xyz)
+![blog badge](https://img.shields.io/badge/Cnblogs-skylee03-green?style=flat-square&logo=blogger&logoColor=white&link=https://www.cnblogs.com/skylee03/)
+![github badge](https://img.shields.io/badge/GitHub-skylee03-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/skylee03)
 
 ---
 
