@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 ![blog badge](https://img.shields.io/badge/Cnblogs-skylee03-green?style=flat-square&logo=blogger&logoColor=white&link=https://www.cnblogs.com/skylee03/)
 ![github badge](https://img.shields.io/badge/GitHub-skylee03-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/skylee03)
 
+![codechef badge](https://img.shields.io/badge/CodeChef-skylee-brown?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/skylee)
+![hackerearth badge](https://img.shields.io/badge/HackerEarth-mingtian-darkblue?style=flat-square&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@mingtian)
+![codeforces badge](https://img.shields.io/badge/Codeforces-skylee-red?style=flat-square&logo=codeforces&logoColor=white&link=http://codeforces.com/profile/skylee)
+
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=skylee03&show_icons=true)
