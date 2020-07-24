@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![E-mail Badge](https://img.shields.io/badge/-i@skylee.xyz-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:i@skylee.xyz)
+![e-mail Badge](https://img.shields.io/badge/-i@skylee.xyz-orange?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:i@skylee.xyz)
+![blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&logo=blogger&logoColor=white&link=https://www.cnblogs.com/skylee03/)
 
 ---
 
