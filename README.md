@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![email badge](https://img.shields.io/badge/Email-i@skylee.xyz-orange?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:i@skylee.xyz)
+![zhihu badge](https://img.shields.io/badge/Zhihu-skylee03-blue?style=flat-square&logo=zhihu&logoColor=white&link=https://www.zhihu.com/people/skylee03)
 ![blog badge](https://img.shields.io/badge/Cnblogs-skylee03-green?style=flat-square&logo=blogger&logoColor=white&link=https://www.cnblogs.com/skylee03/)
-![github badge](https://img.shields.io/badge/GitHub-skylee03-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/skylee03)
+![github badge](https://img.shields.io/badge/GitHub-skylee03-darkgreen?style=flat-square&logo=github&logoColor=white&link=https://github.com/skylee03)
 
 ![codechef badge](https://img.shields.io/badge/CodeChef-skylee-brown?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/skylee)
 ![hackerearth badge](https://img.shields.io/badge/HackerEarth-mingtian-darkblue?style=flat-square&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@mingtian)
