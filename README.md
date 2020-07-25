@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/banner.jpg">
+  <img src="https://github.com/skylee03/skylee03/raw/master/banner.jpg">
 </p>
 
 <p align="center">
