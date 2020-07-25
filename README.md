@@ -1,4 +1,6 @@
-### Hi there 👋 It's Skylee!
+<p align="center">
+  <img src="/banner.jpg">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-@skylee03-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/skylee03"/>
