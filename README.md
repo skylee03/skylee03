@@ -1,33 +1,24 @@
 ### Hi there 👋 It's Skylee!
 
-<!--
-**skylee03/skylee03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/-@skylee03-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/skylee03"/>
+  <img src="https://img.shields.io/badge/-i@skylee.xyz-orange?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:i@skylee.xyz">
+  <img src="https://img.shields.io/badge/-@skylee03-0084ff?style=flat-square&logo=zhihu&logoColor=white&link=https://www.zhihu.com/people/skylee03">
+  <img src="https://img.shields.io/badge/-@skylee03-green?style=flat-square&logo=blogger&logoColor=white&link=https://www.cnblogs.com/skylee03/">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/-@skylee-5b4638?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/skylee">
+  <img src="https://img.shields.io/badge/-@mingtian-323754?style=flat-square&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@mingtian">
+  <img src="https://img.shields.io/badge/-@skylee-1f8acb?style=flat-square&logo=codeforces&logoColor=white&link=http://codeforces.com/profile/skylee">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skylee03&show_icons=true">
+</p>
 
-![email badge](https://img.shields.io/badge/Email-i@skylee.xyz-orange?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:i@skylee.xyz)
-![zhihu badge](https://img.shields.io/badge/Zhihu-skylee03-0084ff?style=flat-square&logo=zhihu&logoColor=white&link=https://www.zhihu.com/people/skylee03)
-![blog badge](https://img.shields.io/badge/Cnblogs-skylee03-green?style=flat-square&logo=blogger&logoColor=white&link=https://www.cnblogs.com/skylee03/)
-![github badge](https://img.shields.io/badge/GitHub-skylee03-181717n?style=flat-square&logo=github&logoColor=white&link=https://github.com/skylee03)
-
-![codechef badge](https://img.shields.io/badge/CodeChef-skylee-5b4638?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/skylee)
-![hackerearth badge](https://img.shields.io/badge/HackerEarth-mingtian-323754?style=flat-square&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@mingtian)
-![codeforces badge](https://img.shields.io/badge/Codeforces-skylee-1f8acb?style=flat-square&logo=codeforces&logoColor=white&link=http://codeforces.com/profile/skylee)
-
----
-
-![github stats](https://github-readme-stats.vercel.app/api?username=skylee03&show_icons=true)
-
----
-
-🌟 From [skylee03](https://github.com/skylee03)
+<p align="center">
+  <a href="https://github.com/skylee03?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+  <a href="https://github.com/skylee03" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/skylee03/skylee03?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+  <a href="https://github.com/skylee03/skylee03" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/skylee03/skylee03?label=profile%20updated&style=flat-square"></a>
+</p>
