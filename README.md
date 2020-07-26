@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/skylee03"><img src="https://img.shields.io/badge/-@skylee03-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:i@skylee.xyz"><img src="https://img.shields.io/badge/-i@skylee.xyz-orange?style=flat-square&logo=mail.ru&logoColor=white"/></a>
+  <a href="mailto:i@skylee.xyz"><img src="https://img.shields.io/badge/-i@skylee.xyz-168de2?style=flat-square&logo=mail.ru&logoColor=white"/></a>
   <a href="https://www.zhihu.com/people/skylee03"><img src="https://img.shields.io/badge/-@skylee03-0084ff?style=flat-square&logo=zhihu&logoColor=white"/></a>
-  <a href="https://www.cnblogs.com/skylee03/"><img src="https://img.shields.io/badge/-@skylee03-green?style=flat-square&logo=blogger&logoColor=white"/></a>
+  <a href="https://www.cnblogs.com/skylee03/"><img src="https://img.shields.io/badge/-@skylee03-ff5722?style=flat-square&logo=blogger&logoColor=white"/></a>
+  <a href="https://space.bilibili.com/174459804"><img src="https://img.shields.io/badge/-@skylee03-00a1d6?style=flat-square&logo=bilibili&logoColor=white"/></a>
 </p>
 
 <p align="center">
