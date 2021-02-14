@@ -9,7 +9,7 @@
   <a href="https://www.zhihu.com/people/skylee03"><img src="https://img.shields.io/badge/-@skylee03-0084ff?style=flat-square&logo=zhihu&logoColor=white"/></a>
   <a href="https://www.cnblogs.com/skylee03/"><img src="https://img.shields.io/badge/-@skylee03-ff5722?style=flat-square&logo=blogger&logoColor=white"/></a>
   <a href="https://space.bilibili.com/174459804"><img src="https://img.shields.io/badge/-@skylee03-00a1d6?style=flat-square&logo=bilibili&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mingtian-yang/"><img src="https://img.shields.io/badge/-Mingtian Yang-0077b5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/skylee03/"><img src="https://img.shields.io/badge/-Ming-Tian Yang-0077b5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
